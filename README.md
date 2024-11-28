@@ -11,10 +11,10 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omadli&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=iammentalist&color=blueviolet" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/omadli?tab=followers">
-    <img src="https://img.shields.io/github/followers/omadli?style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/iammentalist?style=social" alt="Followers" />
   </a>
 </p>
 
