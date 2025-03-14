@@ -7,13 +7,13 @@
 
 
 <div align="center">
-  <img src="https://github.com/omadli/omadli/raw/master/output/my.png" alt="Card header"/>
+  <img src="https://github.com/iammentalist/iammentalist/raw/master/output/my.png" alt="Card header"/>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iammentalist&color=blueviolet" alt="Profile views" />
   &nbsp;
-  <a href="https://github.com/omadli?tab=followers">
+  <a href="https://github.com/iammentalist?tab=followers">
     <img src="https://img.shields.io/github/followers/iammentalist?style=social" alt="Followers" />
   </a>
 </p>
@@ -97,8 +97,8 @@
   <a href="https://github.com/iammentalist">
     <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=iammentalist&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/omadli">
-    <img align="center" alt="omadli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammentalist&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/iammentalist">
+    <img align="center" alt="iammentalist" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammentalist&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
@@ -108,7 +108,7 @@
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://iammentalist.github.io/)&nbsp; -->
   [![Telegram Badge](https://img.shields.io/badge/-MenTaLiST_VIP-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.me/MenTaLiST_VIP)](https://telegram.me/MenTaLiST_VIP)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-omadliyigit17@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:omadliyigit17@gmail.com)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-squrbonaliyev0607@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:squrbonaliyev0607@gmail.com)&nbsp;
   <!-- [![Instagram Badge](https://img.shields.io/badge/-iammentalist-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/MenTaLiST_VIP/)&nbsp; -->
   <!-- [![Twitter Badge](https://img.shields.io/badge/-iammentalist-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MenTaLiST_PRO)&nbsp; -->
   <!-- [![AniList Badge](https://img.shields.io/badge/-iammentalist-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/MenTaLiST_VIP/) -->
@@ -116,10 +116,10 @@
 </div>
 
 
-<!-- ![Snake animation](https://github.com/omadli/omadli/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![Snake animation](https://github.com/iammentalist/iammentalist/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
-  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/iammentalist/iammentalist/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
 <!-- ## 📚 &nbsp;My Projects -->
